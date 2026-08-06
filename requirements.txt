@@ -1,0 +1,12 @@
+fastapi>=0.110.0
+uvicorn[standard]>=0.27.0
+pydantic>=2.0.0
+torch
+transformers
+datasets
+huggingface_hub
+scipy
+omegaconf
+numpy
+lm-polygraph @ git+https://github.com/IINemo/lm-polygraph.git
+llm-uncertainty-head @ git+https://github.com/datapaf/llm-uncertainty-head.git
